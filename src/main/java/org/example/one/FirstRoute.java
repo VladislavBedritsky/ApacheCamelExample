@@ -1,4 +1,4 @@
-package org.example.routes;
+package org.example.one;
 
 import org.apache.camel.builder.RouteBuilder;
 

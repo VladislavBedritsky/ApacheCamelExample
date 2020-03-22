@@ -1,8 +1,7 @@
-package org.example;
+package org.example.one;
 
 import org.apache.camel.CamelContext;
 import org.apache.camel.impl.DefaultCamelContext;
-import org.example.routes.FirstRoute;
 
 public class Main {
 
